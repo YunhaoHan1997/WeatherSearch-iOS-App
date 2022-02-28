@@ -1,0 +1,9 @@
+use_frameworks!
+
+target 'WeatherSearch571' do
+    pod 'SwiftyJSON', '~> 4.0'
+    pod 'Alamofire', '~> 5.4'
+    pod 'Toast-Swift', '~> 5.0'
+    pod 'SwiftSpinner', '~> 2.2'
+    pod 'Highcharts', '~> 9.3'
+end

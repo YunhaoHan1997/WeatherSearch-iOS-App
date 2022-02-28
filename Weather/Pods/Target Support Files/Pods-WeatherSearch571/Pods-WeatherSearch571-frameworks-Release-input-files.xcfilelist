@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-WeatherSearch571/Pods-WeatherSearch571-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/SwiftSpinner/SwiftSpinner.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
+${BUILT_PRODUCTS_DIR}/Toast-Swift/Toast_Swift.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/Highcharts/Highcharts.framework/Highcharts
